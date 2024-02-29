@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Kyros",
+    "description": "Conjunto de encaje",
+    "price": 6540,
+    "thumbnail": "imagen7",
+    "code": "MK265",
+    "stock": 14,
+    "id": 1
+  },
+  {
+    "title": "Marcela Kaury",
+    "description": "Conjunto satinado",
+    "price": 4500,
+    "thumbnail": "imagen2",
+    "code": "MK245",
+    "stock": 15,
+    "id": 2
+  },
+  {
+    "title": "Victoria Secret",
+    "description": "Conjunto de encaje",
+    "price": 3300,
+    "thumbnail": "imagen3",
+    "code": "VS001",
+    "stock": 10,
+    "id": 3
+  },
+  {
+    "title": "Victoria Secret",
+    "description": "Conjunto de encaje",
+    "price": 3300,
+    "thumbnail": "imagen4",
+    "code": "VS002",
+    "stock": 24,
+    "id": 4
+  },
+  {
+    "title": "Cocot",
+    "description": "Conjunto de encaje",
+    "price": 13300,
+    "thumbnail": "imagen5",
+    "code": "CC343",
+    "stock": 10,
+    "id": 5
+  },
+  {
+    "title": "Cocot",
+    "description": "Conjunto de encaje",
+    "price": 3300,
+    "thumbnail": "imagen6",
+    "code": "CC348",
+    "stock": 17,
+    "id": 6
+  },
+  {
+    "title": "Marcela Kaury",
+    "description": "Conjunto de encaje",
+    "price": 7500,
+    "thumbnail": "imagen7",
+    "code": "MK265",
+    "stock": 14,
+    "id": 7
+  },
+  {
+    "title": "Kyros",
+    "description": "Conjunto de encaje",
+    "price": 4000,
+    "thumbnail": "imagen8",
+    "code": "MK265",
+    "stock": 14,
+    "id": 8
+  },
+  {
+    "title": "Kyros",
+    "description": "Conjunto de encaje",
+    "price": 7540,
+    "thumbnail": "imagen9",
+    "code": "MK265",
+    "stock": 14,
+    "id": 9
+  },
+  {
+    "title": "Kyros",
+    "description": "Conjunto de encaje",
+    "price": 3540,
+    "thumbnail": "imagen10",
+    "code": "MK265",
+    "stock": 14,
+    "id": 10
+  },
+  {
+    "title": "Marcela Kaury",
+    "description": "Conjunto de encaje",
+    "price": 9400,
+    "thumbnail": "imagen11",
+    "code": "MK265",
+    "stock": 14,
+    "id": 11
+  },
+  {
+    "title": "Inedita",
+    "description": "Conjunto de encaje",
+    "price": 4980,
+    "thumbnail": "imagen1212",
+    "code": "MK265",
+    "stock": 14,
+    "id": 12
+  },
+  {
+    "title": "Inedita",
+    "description": "Conjunto de encaje",
+    "price": 4570,
+    "thumbnail": "imagen13",
+    "code": "MK265",
+    "stock": 14,
+    "id": 13
+  },
+  {
+    "title": "Cocot",
+    "description": "Conjunto de encaje",
+    "price": 7650,
+    "thumbnail": "imagen14",
+    "code": "MK265",
+    "stock": 14,
+    "id": 14
+  }
+]
